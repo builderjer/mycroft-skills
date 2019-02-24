@@ -208,3 +208,6 @@
 [submodule "tmdb-skill"]
 	path = tmdb-skill
 	url = https://github.com/builderjer/tmdb-skill.git
+[submodule "pianobar-skill"]
+	path = pianobar-skill
+	url = https://github.com/builderjer/pianobar-skill.git
